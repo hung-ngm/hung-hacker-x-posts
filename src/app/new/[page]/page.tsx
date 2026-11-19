@@ -1,0 +1,28 @@
+import { notFound } from "next/navigation";
+import { StoryList } from "@/components/story-list";
+import { loadPosts } from "@/load-posts";
+import { pageCount } from "@/rank";
+
+export function generateStaticParams() {
+  return Array.from({ length: pageCount(loadPosts().length) }, (_, index) => ({
+    page: String(index + 1),
+  }));
+}
+
+export const dynamicParams = false;
+
+export default async function NewPaged({
+  params,
+}: {
+  params: Promise<{ page: string }>;
+}) {
+  const { page } = await params;
+  const parsed = Number(page);
+  const posts = loadPosts();
+  if (!/^\d+$/.test(page) || parsed < 1 || parsed > pageCount(posts.length)) {
+    notFound();
+  }
+  return (
+    <StoryList posts={posts} page={parsed} more={(next) => `/new?p=${next}`} />
+  );
+}
