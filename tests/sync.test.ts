@@ -45,6 +45,15 @@ function sync(
   });
 }
 
+function assertListOrder(posts: Post[], ids: string[]) {
+  const byId = new Map(posts.map((post) => [post.id, post]));
+  for (let index = 1; index < ids.length; index++) {
+    expect(Date.parse(byId.get(ids[index])!.bookmarkedAt)).toBeLessThan(
+      Date.parse(byId.get(ids[index - 1])!.bookmarkedAt),
+    );
+  }
+}
+
 function blank(partial: Partial<Post> & Pick<Post, "id">): Post {
   return {
     bookmarkedAt: "2026-11-19T19:00:00.000Z",
@@ -150,6 +159,35 @@ describe("sync", () => {
         Date.parse(byId.get(ids[index - 1])!.bookmarkedAt),
       );
     }
+  });
+
+  test("places unseen flat-list posts by their neighbors", async () => {
+    const first = await sync([]);
+    const ids = fixture.data.map((tweet) => tweet.id);
+    const top = first.filter((post) => ids.slice(0, 2).includes(post.id));
+    const tail = first.filter((post) => !ids.slice(0, 2).includes(post.id));
+
+    const below = await sync(top, later);
+    const oldestTop = Math.min(...top.map((post) => Date.parse(post.bookmarkedAt)));
+    for (const post of below) {
+      if (ids.slice(0, 2).includes(post.id)) {
+        expect(post.bookmarkedAt).toBe(top.find((item) => item.id === post.id)?.bookmarkedAt);
+      } else {
+        expect(Date.parse(post.bookmarkedAt)).toBeLessThan(oldestTop);
+      }
+    }
+    assertListOrder(below, ids);
+    const replay = await sync(below, later);
+    expect(serializePosts(replay)).toBe(serializePosts(below));
+
+    const above = await sync(tail, later);
+    const newestTail = Math.max(...tail.map((post) => Date.parse(post.bookmarkedAt)));
+    for (const id of ids.slice(0, 2)) {
+      expect(Date.parse(above.find((post) => post.id === id)!.bookmarkedAt)).toBeGreaterThan(
+        newestTail,
+      );
+    }
+    assertListOrder(above, ids);
   });
 
   test("backfill keeps folder posts that the next daily sync does not return", async () => {

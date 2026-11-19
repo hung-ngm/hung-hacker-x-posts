@@ -212,6 +212,51 @@ function assignNewer(ids: string[], times: Map<string, string>, now: number) {
   });
 }
 
+function assignFlat(ids: string[], times: Map<string, string>, now: number) {
+  if (!ids.some((id) => times.has(id))) {
+    assignNewer(ids, times, now);
+    return;
+  }
+  let index = 0;
+  while (index < ids.length) {
+    if (times.has(ids[index]!)) {
+      index += 1;
+      continue;
+    }
+    const start = index;
+    while (index < ids.length && !times.has(ids[index]!)) index += 1;
+    const run = uniqueNew(ids.slice(start, index), times);
+    if (run.length === 0) continue;
+    const above = start > 0 ? Date.parse(times.get(ids[start - 1]!)!) : undefined;
+    const below = index < ids.length ? Date.parse(times.get(ids[index]!)!) : undefined;
+    if (above === undefined) {
+      assignNewer(run, times, now);
+      continue;
+    }
+    placeBetween(run, above, below, times);
+  }
+}
+
+function placeBetween(
+  run: string[],
+  above: number,
+  floor: number | undefined,
+  times: Map<string, string>,
+) {
+  if (floor === undefined || !Number.isFinite(floor)) {
+    run.forEach((id, index) => {
+      times.set(id, new Date(above - (index + 1) * 1000).toISOString());
+    });
+    return;
+  }
+  const room = above - floor;
+  const step = room > run.length ? Math.floor(room / (run.length + 1)) : 1;
+  run.forEach((id, index) => {
+    const ms = above - step * (index + 1);
+    times.set(id, new Date(ms > floor ? ms : above - (index + 1)).toISOString());
+  });
+}
+
 function assignOlder(ids: string[], times: Map<string, string>, now: number) {
   if (uniqueNew(ids, times).length === 0) return;
   if (times.size === 0) {
@@ -295,7 +340,7 @@ export async function syncBookmarks(input: {
   for (const post of input.existing) times.set(post.id, post.bookmarkedAt);
 
   const now = input.now.getTime();
-  assignNewer(
+  assignFlat(
     input.flatTweets.map((tweet) => tweet.id),
     times,
     now,

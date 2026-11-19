@@ -19,7 +19,7 @@ bun dev
 
 Open http://localhost:3000.
 
-The repository already contains a small seed in `data/posts.json`, so `bun dev` renders pages before the first sync. `bun run sync` replaces that file with the account's bookmarks.
+The repository already contains a small seed in `data/posts.json`, so `bun dev` renders pages before the first sync. `bun run sync` merges the account's bookmarks into that file. It keeps every post, refreshes like and repost counts, and sets `bookmarkedAt` the first time it sees a post.
 
 Run the first sync with `--backfill` so folder bookmarks are included. Later runs can omit it. Daily runs read the flat bookmark list only. That list is a window of about 200 posts, and a sync never deletes a post that has scrolled out of it. To hide a post, add its id to `data/hidden.json`.
 
