@@ -6,7 +6,7 @@ import { describe, expect, test } from "bun:test";
 import { loadPosts, readPosts } from "../src/load-posts";
 import type { Post } from "../src/post";
 import { pageSlice, rankHot } from "../src/rank";
-import { serializePosts, syncBookmarks } from "../src/sync";
+import { excerpt, serializePosts, syncBookmarks } from "../src/sync";
 import { createXClient, oauthSignature, type ApiTweet } from "../src/x";
 
 const fixture = JSON.parse(
@@ -54,6 +54,20 @@ function assertListOrder(posts: Post[], ids: string[]) {
   }
 }
 
+function loneSurrogate(value: string): boolean {
+  for (let index = 0; index < value.length; index += 1) {
+    const code = value.charCodeAt(index);
+    if (code >= 0xd800 && code <= 0xdbff) {
+      const next = value.charCodeAt(index + 1);
+      if (!(next >= 0xdc00 && next <= 0xdfff)) return true;
+      index += 1;
+    } else if (code >= 0xdc00 && code <= 0xdfff) {
+      return true;
+    }
+  }
+  return false;
+}
+
 function blank(partial: Partial<Post> & Pick<Post, "id">): Post {
   return {
     bookmarkedAt: "2026-11-19T19:00:00.000Z",
@@ -90,13 +104,35 @@ describe("sync", () => {
     expect(plain?.domain).toBeNull();
     expect(plain?.title.startsWith("Hiring news for my builder friends")).toBe(true);
     expect(plain?.title.endsWith("…")).toBe(true);
-    expect(plain?.title.length).toBeLessThanOrEqual(81);
+    const graphemes = [
+      ...new Intl.Segmenter(undefined, { granularity: "grapheme" }).segment(
+        plain?.title ?? "",
+      ),
+    ];
+    expect(graphemes.length).toBeLessThanOrEqual(81);
 
     const missed = await sync([], now, async () => null);
     const fallback = missed.find((post) => post.id === "2123042214779777389");
     expect(fallback?.title.startsWith("If you design with AI")).toBe(true);
     expect(fallback?.domain).toBe("studio.motionsites.ai");
     expect(fallback?.title).not.toBe("Fetched Title");
+  });
+
+  test("keeps an emoji that sits on the title cut", () => {
+    const party = excerpt(`${"a".repeat(79)}🎉 and more after the cut`);
+    expect(party).toBe(`${"a".repeat(79)}🎉…`);
+    expect(loneSurrogate(party)).toBe(false);
+
+    const family = excerpt(`${"b".repeat(79)}👨‍👩‍👧 and more after the cut`);
+    expect(family).toBe(`${"b".repeat(79)}👨‍👩‍👧…`);
+    expect(loneSurrogate(family)).toBe(false);
+  });
+
+  test("stored titles contain no lone surrogates", () => {
+    const posts = JSON.parse(
+      readFileSync(fileURLToPath(new URL("../data/posts.json", import.meta.url)), "utf8"),
+    ) as { title: string }[];
+    expect(posts.every((post) => !loneSurrogate(post.title))).toBe(true);
   });
 
   test("keeps the full note, quote, image, and decoded text", async () => {
