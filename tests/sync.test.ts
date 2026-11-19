@@ -104,7 +104,12 @@ describe("sync", () => {
     expect(plain?.domain).toBeNull();
     expect(plain?.title.startsWith("Hiring news for my builder friends")).toBe(true);
     expect(plain?.title.endsWith("…")).toBe(true);
-    expect(plain?.title.length).toBeLessThanOrEqual(81);
+    const graphemes = [
+      ...new Intl.Segmenter(undefined, { granularity: "grapheme" }).segment(
+        plain?.title ?? "",
+      ),
+    ];
+    expect(graphemes.length).toBeLessThanOrEqual(81);
 
     const missed = await sync([], now, async () => null);
     const fallback = missed.find((post) => post.id === "2123042214779777389");

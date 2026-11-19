@@ -38,8 +38,15 @@ export function excerpt(text: string): string {
     .replace(/https?:\/\/\S+/g, "")
     .replace(/\s+/g, " ")
     .trim();
-  if (clean.length <= TITLE_CHARS) return clean;
-  return `${clean.slice(0, TITLE_CHARS).trimEnd()}…`;
+  const graphemes = [
+    ...new Intl.Segmenter(undefined, { granularity: "grapheme" }).segment(clean),
+  ];
+  if (graphemes.length <= TITLE_CHARS) return clean;
+  return `${graphemes
+    .slice(0, TITLE_CHARS)
+    .map((part) => part.segment)
+    .join("")
+    .trimEnd()}…`;
 }
 
 function urlsOf(tweet: ApiTweet): UrlEntity[] {
