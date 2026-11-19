@@ -41,7 +41,7 @@ Put the four values in `.env`. That file is gitignored. `.env.example` lists the
 
 ## GitHub Actions secrets
 
-`.github/workflows/sync.yml` runs every day at 06:00 Australia/Sydney (`0 19 * * *` UTC). You can also run it from the Actions tab.
+`.github/workflows/sync.yml` runs every day at 08:00 Australia/Sydney. GitHub cron is UTC only, so it schedules both `0 21 * * *` and `0 22 * * *` and a gate job keeps the one that matches Sydney's current offset (daylight saving or not). You can also run it from the Actions tab.
 
 In the repository, open **Settings > Secrets and variables > Actions** and add four repository secrets with the same names and values as `.env`:
 
