@@ -1,0 +1,1181 @@
+{
+ "data": [
+  {
+   "author_id": "1880018402775035907",
+   "created_at": "2026-11-19T07:30:42.000Z",
+   "edit_history_tweet_ids": [
+    "2123318031199941055"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 45,
+      "id": "2151686839",
+      "start": 38,
+      "username": "circle"
+     },
+     {
+      "end": 227,
+      "id": "1147774234866987014",
+      "start": 219,
+      "username": "shafu0x"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "x.com/shafu0x/status\u2026",
+      "end": 279,
+      "expanded_url": "https://twitter.com/shafu0x/status/2122802791643230400",
+      "start": 256,
+      "url": "https://t.co/X8rO1XdF8C"
+     }
+    ]
+   },
+   "id": "2123318031199941055",
+   "public_metrics": {
+    "bookmark_count": 25,
+    "impression_count": 2636,
+    "like_count": 64,
+    "quote_count": 0,
+    "reply_count": 4,
+    "retweet_count": 2
+   },
+   "referenced_tweets": [
+    {
+     "id": "2122802791643230400",
+     "type": "quoted"
+    }
+   ],
+   "text": "Hiring news for my builder friends \ud83d\udc47\n\n@circle is looking for exceptional people for its Agentic Commerce team\n\n- agent wallets\n- nanopayments\n- x402/mpp\n- identity\n- reputation\n- discovery\n\nBuilders, please apply. Mail @shafu0x at shafu.elfouly@circle.com https://t.co/X8rO1XdF8C"
+  },
+  {
+   "article": {
+    "cover_media": "3_2122385255306870784",
+    "entities": {
+     "tweets": [
+      {
+       "id": "1987399853866209290"
+      }
+     ],
+     "urls": [
+      {
+       "text": "https://www.youtube.com/watch?v=X94t4hTajCc&list=RDX94t4hTajCc&start_radio=1"
+      },
+      {
+       "text": "https://howtounclench.com/"
+      }
+     ]
+    },
+    "media_entities": [
+     "3_2122401327619641344",
+     "3_2122404310067683328",
+     "3_2122396290243813376",
+     "3_2122620822929973249",
+     "3_2122306458502971393"
+    ],
+    "plain_text": "Whenever I think about design tools and the creative process, I often rewatch a famous scene from Peter Jackson\u2019s Beatles documentary that captures the birth of \u201cGet Back.\u201d\nPaul McCartney starts playing his bass and mumbling to himself. He goes around the riff again and again and again. With each pass, the fog clears and the words start to come together.\n \nYou can watch the scene here.\nIt\u2019s a deeply vulnerable, almost sacred moment. McCartney is in a state of play, unclenched, uncensored, and his intuition speaks directly. There\u2019s zero friction between what he feels and what comes out. Once you\u2019ve experienced that while making something, you always want to find your way back.\nReaching that state is a journey in itself. Many people get stuck along the way because their hands can\u2019t do what their head sees. I wonder how many ideas stay trapped inside us simply because we never break through the barrier of the instrument. Sometimes they escape and go find other hands, though.\nFactories\n \nMost of our design tools are built for the finish line. They assume you already know what you\u2019re making.\nBut there is a messy and fragile phase that comes before production, where you\u2019re still looking for the idea. It needs completely different set and setting, and yet we\u2019ve built so little for it.\nEven with AI, most of our new tools still feel like factories. We have prompt boxes and node graphs where you spend half your time engineering the right phrasing or wiring inputs together. It works, more or less, but the flow is gone. Most of the time, it feels less like exploring an idea and more like troubleshooting a machine.\nAs AI handles more of the production work in the background, we finally have the chance to build other rooms. Spaces to mess around, make mistakes, and try things just to see what happens. That\u2019s where the weird, original stuff is born.\nMumble ideas into existence\n \nCreative exploration pushes back in a few ways. There\u2019s the critic in your head, the instrument in your hands, and the tension between ideas. The first two get in the way. The third is the search itself.\nVoice interfaces could dissolve the instrument, and, if we design them right, quiet the critic too. Traditional tools force you to leave the feeling and enter logic mode just to hunt for a button. Shortcuts and launchers like Raycast try to make the tool invisible, but voice goes further. When I can just mumble half-formed thoughts out loud, I stay connected to my gut. It works for the same reason free-speaking and morning pages do. You stay in the flow, and the inner critic never gets a word in.\n \nOnce the critic goes quiet and the instrument disappears, the real exploration starts. That\u2019s what excites me about visual branching. When I\u2019m designing every version myself, exploring a single direction takes days. Now I can lay ten versions of an idea on the table at once. Seeing them side by side, they start to argue with each other, and in that argument it\u2019s much easier for me to see what the idea wants to be. This is the friction worth keeping. The loop is the same as ever (make, see how it feels), only faster.\nLittle Rooms\n \nNow we get to decide what we want from the next generation of creative tools. Instead of optimizing the factory, we can put the joy of searching first.\nA machine can make anything look like anything. The feeling, a human point of view that makes someone look at the work and recognize themselves in it, is still ours to discover. The tech is fleeting, while that human part is timeless. The best work usually happens when we keep one foot in each.\nThat\u2019s why tools matter and don\u2019t matter at all. Brian Eno once described the recording studio as an instrument in its own right, a room that takes part in the work. To me, that\u2019s what a creative tool should be. A safe, quiet place you play in and form a relationship with.\nA factory saves time. A studio spends it beautifully, and somehow, that\u2019s the only time we end up remembering.\n\n \n",
+    "preview_text": "Whenever I think about design tools and the creative process, I often rewatch a famous scene from Peter Jackson\u2019s Beatles documentary that captures the birth of \u201cGet Back.\u201d\nPaul McCartney starts",
+    "title": "Studios over Factories"
+   },
+   "author_id": "635813",
+   "created_at": "2026-11-17T15:00:13.000Z",
+   "edit_history_tweet_ids": [
+    "2122706379987165590"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "x.com/i/article/2122\u2026",
+      "end": 54,
+      "expanded_url": "https://x.com/i/article/2122281085643919360",
+      "start": 31,
+      "status": 404,
+      "unwound_url": "https://x.com/i/article/2122281085643919360",
+      "url": "https://t.co/1sMLDkEAfR"
+     }
+    ]
+   },
+   "id": "2122706379987165590",
+   "public_metrics": {
+    "bookmark_count": 613,
+    "impression_count": 32383,
+    "like_count": 324,
+    "quote_count": 24,
+    "reply_count": 20,
+    "retweet_count": 28
+   },
+   "text": "Mumbling ideas into existence. https://t.co/1sMLDkEAfR"
+  },
+  {
+   "article": {
+    "cover_media": "3_2123131553245196288",
+    "entities": {
+     "urls": [
+      {
+       "text": "https://x.com/SemiAnalysis_/status/2121273407488618995"
+      },
+      {
+       "text": "https://inferact.ai/news/pipeline-parallelism-in-agentic-era"
+      }
+     ]
+    },
+    "media_entities": [
+     "3_2123131615106961408",
+     "3_2123131822594981888",
+     "3_2123131904618885120"
+    ],
+    "plain_text": "Since we started Inferact, I have been getting a lot of questions about how it relates to vLLM: what stays in the open-source project, who maintains it, and what Inferact is for. All great questions; I want to lay out how we think about our technical north star.\nThe short version is that Inferact builds an autonomous inference system around vLLM, that vLLM stays open, and every engine optimization we and the system build improves vLLM for the whole community.\nInference is the problem\nInference is the only problem we are solving.\n \nEvery week a lab ships a new model architecture, a chip vendor designs hardware with no tuned kernels, or a customer\u2019s traffic shifts from short chat to long-context agents, and each novel combination needs its own tuning before it runs well. Models, hardware, and workloads each moves on their own pace, and the gap between them costs a lot: an unoptimized stack loses throughput and reliability.\nvLLM\u2019s job is to bridge this gap. But we realized, you can\u2019t brute force a combinatorial explosion; a search space that\u2019s 5000+ model, 1000+ chip architecture, and an infinitude of workloads.\nInferact is a center of gravity for best inference engineers in the world, many of them are the people who built vLLM. We are unified around one goal: build a system that improves the engine, and improves itself\u2014full autonomy.\nOur answer: An Autonomous Inference System around vLLM\nAt Inferact, we are building an autonomous inference system (AIS) around vLLM. Autonomous means it operates on its own: it takes a goal, works toward it, and seeks feedback, without anyone telling it exactly what to do next.\nIn practice, the system:\nSees the production workloads it operates or is authorized to observe, and learns from what the community shares, without needing access to their deployments.\nAdapts to new models and new hardware, and to customer workloads as they shift.\nEvolves its own code and its own brain, the accumulated knowledge and engineering taste behind every decision.\nDrives itself toward its goals, working through roadblocks the way a strong engineering organization would.\nOptimizes continuously against each workload\u2019s own targets.\nThe point is extreme optimization for each point on the continuum of use cases our users and customers care about, on a reliable core that keeps getting better. We want the system\u2019s evolution to be bound only by compute, up to the hardware\u2019s speed of light.\nWhat autonomous inference means in practice\nHere is what it could look like on an ordinary day.\n \n3am. A lab shares the preview of a new open model, and the system starts profiling it before anyone at Inferact is awake. Its novel attention variant has no tuned kernel, so it falls back to a generic path and misses the latency target.\n4am. Unprompted, the system starts a Hillclimb round: some agents write a megakernel for the variant, others fuse the new ops around existing kernels, and one rewrites an engine from scratch.\nOvernight. Several candidates win in isolation and lose end to end. Only the combination that survives full serving benchmarks moves forward.\nMorning. That combination is live at each customer\u2019s workload requirements and chip architectures, and the winning changes land upstream in vLLM.\nEvening. The system reviews its own day, notices that most of the failed candidates died at the same end-to-end gate, and rewrites its agents to run that check first.\nTomorrow. It keeps improving itself autonomously.\nThis flow depends on our production and open source flywheel:\n \nProduction. Writing a standalone engine and optimization is easy because inference tasks are generally verifiable. But this isolated gain typically falls short on production distribution and cannot be robust enough. vLLM runs production but it relies on the distributed inference stack to scale out. In order to verify the performance gain, only the engine that stands the test of prod traffic can be trusted.\nOpen source. vLLM is the land where optimization compounds. We carefully designed the core engine to be composable with many different optimizations. This allows every user to benefit from each release. The autonomous inference system benefits directly from the vast community and ecosystem of contributors, academic labs, and partners. I believe vLLM has access to the widest knowledge base of inference demand in the world; and we will enable the autonomous system to help us govern the project by triage issues and test pull requests faster.\nInferact exists to run this loop and to bring vLLM to production. That has three components.\nvLLM leads in the open, and we keep optimizing it. Every performance improvement we find goes upstream to vLLM.\nInferact builds the autonomous system around vLLM. The goal is a system that maintains the inference engine and tailors it to each workload.\nHumans set the goals. Fundamentally, both of these require human taste to supply the quality bar and the ideas that improve the system.\nInferact only wins if vLLM keeps getting better for everyone.\nAutonomous inference in production today\nParts of this loop already run in production at Inferact. Here are two examples.\nMiniMax M3.1 Flash. M3.1 arrived with a new architecture: sparse attention with an indexer, a large MoE, vision input, and native DSpark speculative decoding. vLLM needed to run M3.1 on both NVIDIA and AMD at optimized performance from day 0, in production serving, and the workload kept changing shape underneath us, from long-context agentic coding to short-input, long-output traffic, and then to decode-bound serving once the final checkpoint doubled output length.\nWe ran open source and production on one branch, shadowed 100% of live M3 traffic onto M3.1 before cutover, and ran a production hillclimb against that traffic, promoting changes from local gates to online shadow evals.\nImprovements to the production deployment, each upstreamed to vLLM as it landed:\np50 time to first token went from 1.5 seconds on the first non-PD endpoint to 0.8 seconds in production.\nPatches to the expert-parallel prefill path cut TTFT by 60 to 70 percent.\nPipeline-parallel prefill delivered 19 to 46 percent more throughput than tensor parallel.\nOutput per AMD card improves 56%.\nThe missing kernels, including MSA attention, the indexer, and NVFP4 MoE, went upstream, and day-0 images shipped for NVIDIA and AMD.\nAgent V on Kimi K3.1. Agent V is our shared agent infrastructure. Ask it in Slack and it completes the task in our sandbox with native support hillclimbing.\nWhen we brought Kimi K3.1 up on our own serving stack, output quality degraded on certain batches. A 16-agent hillclimb on Agent V reproduced the problem, root-caused it to an attention routing switch that depended on batch composition, and shipped the fix.\nK3.1 quality: the fix raised our DeepSWE score from 0.558 to 0.602, matching the model\u2019s reference accuracy.\nK3.1 prefill: a 24-hour hillclimb made time to first token 2.78x faster at 800k context on GB300.\nK3.1 decode: a 30-hour hillclimb cut p99 time per output token by 35%.\nK3 in production on GB300: throughput per GPU went from about 0.77M to 1.4M tokens per minute, roughly 1.8x, between mid-September and the end of October, through production hillclimbing.\nAgent V runs mostly on Kimi K3 itself, served by vLLM: about 79 percent of its organic sessions and 53 percent of all its tokens come from our own open-weight deployment. More on Agent V later this week.\nWhere we go next\nAIS is a north star. We haven\u2019t got there yet; but we will keep building towards the full loop.\nFor now, compute is scarce; we can\u2019t yet simulate the world well enough to test changes against traffic that never happened, which is also what Agent V would need to rewrite itself safely; and our feedback loop is still narrow, coming only from the deployments we operate and what customers and the community share.\nHowever, we will aim to close that loop.\nbuild one-click observability for vLLM so the system sees more of the world.\nbuild an Agent V that works across partners and the vLLM community, so the whole ecosystem feeds it.\nbuild this system that sees workloads, adapts to models chips, and improves itself without waiting on us.\nThe journey towards fully autonomous inference systems will be hard, we are fortunate to work with the best engineers and the entire inference community in the planet to achieve it. We will build the full loop end to end, crude as it is, expecting to fail and learn from it many times over.",
+    "preview_text": "Since we started Inferact, I have been getting a lot of questions about how it relates to vLLM: what stays in the open-source project, who maintains it, and what Inferact is for. All great questions;",
+    "title": "Building an Autonomous Inference System"
+   },
+   "author_id": "1016136948845502465",
+   "created_at": "2026-11-18T19:18:24.000Z",
+   "edit_history_tweet_ids": [
+    "2123133742063706343"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 37,
+      "id": "1998160192903745536",
+      "start": 28,
+      "username": "inferact"
+     },
+     {
+      "end": 85,
+      "id": "1774187564276289536",
+      "start": 72,
+      "username": "vllm_project"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "x.com/i/article/2123\u2026",
+      "end": 245,
+      "expanded_url": "https://x.com/i/article/2123131336982712320",
+      "start": 222,
+      "status": 404,
+      "unwound_url": "https://x.com/i/article/2123131336982712320",
+      "url": "https://t.co/bODmxm3pCW"
+     }
+    ]
+   },
+   "id": "2123133742063706343",
+   "public_metrics": {
+    "bookmark_count": 670,
+    "impression_count": 62481,
+    "like_count": 720,
+    "quote_count": 19,
+    "reply_count": 42,
+    "retweet_count": 85
+   },
+   "text": "Many people have asked what @inferact is building and what it means for @vllm_project.\n\nThis is the answer: Inferact will build an autonomous inference system around vLLM, one that improves the engine and improves itself. https://t.co/bODmxm3pCW"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2123042163986722816"
+    ]
+   },
+   "author_id": "2037806897626005504",
+   "created_at": "2026-11-18T13:14:42.000Z",
+   "edit_history_tweet_ids": [
+    "2123042214779777389"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "description": "Describe your business, and AI customizes a MotionSites design, creates your images and videos, and builds your site.",
+      "display_url": "studio.motionsites.ai",
+      "end": 71,
+      "expanded_url": "https://studio.motionsites.ai",
+      "images": [
+       {
+        "height": 630,
+        "url": "https://pbs.twimg.com/news_img/2122151604363354112/2ofAFoQF?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2122151604363354112/2ofAFoQF?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 48,
+      "status": 200,
+      "title": "MotionSites Studio \u2014 Pick a Beautiful Design, and Let AI Make It Yours",
+      "unwound_url": "https://studio.motionsites.ai",
+      "url": "https://t.co/c7KzWlD7FZ"
+     },
+     {
+      "description": "Beautiful Website Prompts for Lovable, Bolt, Cursor, and Claude. Build Stunning 3d Websites With AI. Just copy, paste, and launch",
+      "display_url": "motionsites.ai",
+      "end": 121,
+      "expanded_url": "https://motionsites.ai",
+      "images": [
+       {
+        "height": 630,
+        "url": "https://pbs.twimg.com/news_img/2122924927233990656/gb29XNdy?format=jpg&name=orig",
+        "width": 1200
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2122924927233990656/gb29XNdy?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 98,
+      "status": 200,
+      "title": "MotionSites AI \u2014 Official Premium AI Website Prompts",
+      "unwound_url": "https://motionsites.ai",
+      "url": "https://t.co/f8mYYa8tXG"
+     },
+     {
+      "description": "Find the best hand-picked website design inspiration. We're a curated website design gallery for Creatives, updated daily.",
+      "display_url": "land-book.com",
+      "end": 235,
+      "expanded_url": "https://land-book.com",
+      "images": [
+       {
+        "height": 1260,
+        "url": "https://pbs.twimg.com/news_img/2123000005946720256/i1_SXE1x?format=jpg&name=orig",
+        "width": 2400
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2123000005946720256/i1_SXE1x?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 212,
+      "status": 200,
+      "title": "Landbook - website design inspiration gallery",
+      "unwound_url": "https://land-book.com",
+      "url": "https://t.co/aLind3dQOl"
+     },
+     {
+      "display_url": "pic.x.com/FLcEMURcLu",
+      "end": 301,
+      "expanded_url": "https://x.com/julia_coder_/status/2123042214779777389/video/1",
+      "media_key": "13_2123042163986722816",
+      "start": 278,
+      "url": "https://t.co/FLcEMURcLu"
+     }
+    ]
+   },
+   "id": "2123042214779777389",
+   "note_tweet": {
+    "entities": {
+     "mentions": [
+      {
+       "end": 588,
+       "id": "2037806897626005504",
+       "start": 575,
+       "username": "julia_coder_"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "studio.motionsites.ai",
+       "end": 71,
+       "expanded_url": "http://studio.motionsites.ai",
+       "start": 48,
+       "url": "https://t.co/eWb9cJCVsI"
+      },
+      {
+       "display_url": "motionsites.ai",
+       "end": 121,
+       "expanded_url": "http://motionsites.ai",
+       "start": 98,
+       "url": "https://t.co/XgV9XrohSI"
+      },
+      {
+       "display_url": "land-book.com",
+       "end": 235,
+       "expanded_url": "http://land-book.com",
+       "start": 212,
+       "url": "https://t.co/gZwGUJ5HBP"
+      },
+      {
+       "display_url": "recent.design",
+       "end": 301,
+       "expanded_url": "http://recent.design",
+       "start": 278,
+       "url": "https://t.co/D4HpzWQtCv"
+      },
+      {
+       "display_url": "landdding.com",
+       "end": 363,
+       "expanded_url": "http://landdding.com",
+       "start": 340,
+       "url": "https://t.co/Won2V7wb1V"
+      },
+      {
+       "display_url": "fontinlogo.com",
+       "end": 411,
+       "expanded_url": "http://fontinlogo.com",
+       "start": 388,
+       "url": "https://t.co/RAeZg5AGVB"
+      },
+      {
+       "display_url": "godly.website",
+       "end": 460,
+       "expanded_url": "http://godly.website",
+       "start": 437,
+       "url": "https://t.co/IaopA75lyg"
+      },
+      {
+       "display_url": "60fps.design",
+       "end": 504,
+       "expanded_url": "http://60fps.design",
+       "start": 481,
+       "url": "https://t.co/MRHcp8WpLl"
+      }
+     ]
+    },
+    "text": "If you design with AI, this is all you need\n\n1. https://t.co/eWb9cJCVsI \u2014 cheaper than lovable\n2. https://t.co/XgV9XrohSI \u2014 premium website prompts: 800+ 3d websites, motion sections. Paste into Claude, ship.\n3. https://t.co/gZwGUJ5HBP \u2014 landing page inspiration done right.\n4. https://t.co/D4HpzWQtCv\u2014 cool gallery for web design inspo\n5. https://t.co/Won2V7wb1V \u2014 top notch landings\n6. https://t.co/RAeZg5AGVB \u2014 fonts behind brands\n7. https://t.co/IaopA75lyg \u2014 award websites\n8. https://t.co/MRHcp8WpLl \u2014 mobile UI animations\n\nsave these for your next project\n\nMUST follow @julia_coder_"
+   },
+   "public_metrics": {
+    "bookmark_count": 402,
+    "impression_count": 19415,
+    "like_count": 344,
+    "quote_count": 1,
+    "reply_count": 21,
+    "retweet_count": 110
+   },
+   "text": "If you design with AI, this is all you need\n\n1. https://t.co/c7KzWlD7FZ \u2014 cheaper than lovable\n2. https://t.co/f8mYYa8tXG \u2014 premium website prompts: 800+ 3d websites, motion sections. Paste into Claude, ship.\n3. https://t.co/aLind3dQOl \u2014 landing page inspiration done right.\n4. https://t.co/FLcEMURcLu"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2122903389042360320"
+    ]
+   },
+   "author_id": "47126544",
+   "created_at": "2026-11-18T13:30:00.000Z",
+   "edit_history_tweet_ids": [
+    "2123046064290779454"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/QisVdEeQYH",
+      "end": 304,
+      "expanded_url": "https://x.com/burkov/status/2123046064290779454/photo/1",
+      "media_key": "3_2122903389042360320",
+      "start": 281,
+      "url": "https://t.co/QisVdEeQYH"
+     }
+    ]
+   },
+   "id": "2123046064290779454",
+   "note_tweet": {
+    "entities": {
+     "mentions": [
+      {
+       "end": 546,
+       "id": "1972847288906076160",
+       "start": 535,
+       "username": "ChapterPal"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "chapterpal.com/book/3fef12a8-\u2026",
+       "end": 571,
+       "expanded_url": "https://www.chapterpal.com/book/3fef12a8-4dcd-412e-bd1f-5105591d515c/llm-inference-handbook",
+       "start": 548,
+       "url": "https://t.co/U1m25cuF5q"
+      }
+     ]
+    },
+    "text": "A free online book: LLM Inference Handbook by Sherlock Xu (2026).\n\nThis book is a practical technical reference for engineers deploying, scaling, and operating language models in production.\n\nIt brings together the concepts and decisions involved in turning a trained model into a responsive, cost-aware service, from model behavior and hardware selection to application interfaces and ongoing operations.\n\nReaders can use it as a guided progression or as a lookup resource for specific engineering questions.\n\nRead the book online on @ChapterPal: https://t.co/U1m25cuF5q"
+   },
+   "public_metrics": {
+    "bookmark_count": 431,
+    "impression_count": 9857,
+    "like_count": 352,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 58
+   },
+   "text": "A free online book: LLM Inference Handbook by Sherlock Xu (2026).\n\nThis book is a practical technical reference for engineers deploying, scaling, and operating language models in production.\n\nIt brings together the concepts and decisions involved in turning a trained model into a https://t.co/QisVdEeQYH"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2122743050619510785"
+    ]
+   },
+   "author_id": "64844802",
+   "created_at": "2026-11-17T17:44:55.000Z",
+   "edit_history_tweet_ids": [
+    "2122747826983866425"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/GLjTnTM5g4",
+      "end": 304,
+      "expanded_url": "https://x.com/a16z/status/2122747826983866425/video/1",
+      "media_key": "13_2122743050619510785",
+      "start": 281,
+      "url": "https://t.co/GLjTnTM5g4"
+     }
+    ]
+   },
+   "id": "2122747826983866425",
+   "note_tweet": {
+    "entities": {
+     "mentions": [
+      {
+       "end": 856,
+       "id": "1273327266957688832",
+       "start": 845,
+       "username": "markchen90"
+      },
+      {
+       "end": 871,
+       "id": "1388977636618080256",
+       "start": 857,
+       "username": "johnschulman2"
+      },
+      {
+       "end": 886,
+       "id": "1142210344678379520",
+       "start": 872,
+       "username": "sarahdingwang"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "youtu.be/h_aA1-R70E8",
+       "end": 843,
+       "expanded_url": "http://youtu.be/h_aA1-R70E8",
+       "start": 820,
+       "url": "https://t.co/FSHJdT8Lym"
+      }
+     ]
+    },
+    "text": "For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers at frontier labs run experiments, write code and test ideas faster. So how far are we from AI that can do the research on its own?\n\nIn our first episode of Working Theory, a16z General Partner Sarah Wang explores recursive self-improvement with two leading AI researchers: Mark Chen, Chief Research Officer at OpenAI, and John Schulman, co-founder and Chief Scientist of Thinking Machines Lab, and co-founder of OpenAI.\n\nThey cover what RSI actually means, why research taste is so hard to teach, and why AI may be one of our best tools for solving alignment.\n\n00:00 The last invention\n01:58 What is RSI?\n03:21 How far are we?\n05:56 Getting to full RSI\n10:57 Aligning RSI\n15:08 Working theory\n\nYouTube: https://t.co/FSHJdT8Lym\n\n@markchen90 @johnschulman2 @sarahdingwang"
+   },
+   "public_metrics": {
+    "bookmark_count": 1384,
+    "impression_count": 310969,
+    "like_count": 1087,
+    "quote_count": 35,
+    "reply_count": 53,
+    "retweet_count": 153
+   },
+   "text": "For decades, the idea of AI improving itself was just a thought experiment. Today, AI is already helping researchers at frontier labs run experiments, write code and test ideas faster. So how far are we from AI that can do the research on its own?\n\nIn our first episode of Working https://t.co/GLjTnTM5g4"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2122736550668648448"
+    ]
+   },
+   "author_id": "587542116",
+   "created_at": "2026-11-17T17:00:09.000Z",
+   "edit_history_tweet_ids": [
+    "2122736562244903217"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/3oBo0p4fwQ",
+      "end": 304,
+      "expanded_url": "https://x.com/Doudoujay/status/2122736562244903217/photo/1",
+      "media_key": "3_2122736550668648448",
+      "start": 281,
+      "url": "https://t.co/3oBo0p4fwQ"
+     }
+    ]
+   },
+   "id": "2122736562244903217",
+   "note_tweet": {
+    "entities": {
+     "urls": [
+      {
+       "display_url": "jobs.ashbyhq.com/raindrop/3d251\u2026",
+       "end": 362,
+       "expanded_url": "https://jobs.ashbyhq.com/raindrop/3d2512f7-bfbf-47c6-8765-cad90cd52e1d",
+       "start": 339,
+       "url": "https://t.co/QTvGMmbkTk"
+      },
+      {
+       "display_url": "jobs.ashbyhq.com/primeintellect\u2026",
+       "end": 493,
+       "expanded_url": "https://jobs.ashbyhq.com/primeintellect/8706578d-5a01-4270-9d43-ed9cd998a982",
+       "start": 470,
+       "url": "https://t.co/MGvBCJhDCh"
+      },
+      {
+       "display_url": "jobs.ashbyhq.com/eliseai/6b756f\u2026",
+       "end": 618,
+       "expanded_url": "https://jobs.ashbyhq.com/eliseai/6b756f91-4355-49af-901b-77d3b62d656a",
+       "start": 595,
+       "url": "https://t.co/pTALJC2xwX"
+      },
+      {
+       "display_url": "linkedin.com/jobs/view/4342\u2026",
+       "end": 693,
+       "expanded_url": "https://www.linkedin.com/jobs/view/4342694284",
+       "start": 670,
+       "url": "https://t.co/bvmIapoIzV"
+      },
+      {
+       "display_url": "linkedin.com/jobs/view/4366\u2026",
+       "end": 780,
+       "expanded_url": "https://www.linkedin.com/jobs/view/4366508879",
+       "start": 757,
+       "url": "https://t.co/5Sdwt9rk6Z"
+      },
+      {
+       "display_url": "jobs.ashbyhq.com/higgsfieldai/e\u2026",
+       "end": 863,
+       "expanded_url": "https://jobs.ashbyhq.com/higgsfieldai/edb0008e-69fa-49a0-a8ae-cb5bd2abe9da",
+       "start": 840,
+       "url": "https://t.co/kjH37RKQo6"
+      },
+      {
+       "display_url": "linkedin.com/jobs/view/4318\u2026",
+       "end": 945,
+       "expanded_url": "https://www.linkedin.com/jobs/view/4318508427",
+       "start": 922,
+       "url": "https://t.co/sKdG8B9sIn"
+      },
+      {
+       "display_url": "jobs.ashbyhq.com/serval/a44f2a3\u2026",
+       "end": 1042,
+       "expanded_url": "https://jobs.ashbyhq.com/serval/a44f2a3d-87d0-43c4-87c7-f59cf892de46",
+       "start": 1019,
+       "url": "https://t.co/ZXzWRLj9AR"
+      },
+      {
+       "display_url": "jobs.ashbyhq.com/hellyeah/670fd\u2026",
+       "end": 1299,
+       "expanded_url": "https://jobs.ashbyhq.com/hellyeah/670fd123-0331-46da-b973-e46fe64a48e4",
+       "start": 1276,
+       "url": "https://t.co/Dr0Fh8IaTE"
+      }
+     ]
+    },
+    "text": "Being a Founding Engineer at the next OpenAI or Anthropic is one of most underrated ways to become a deca-millionaire.\n\nThe key is finding the right startups before they're massive.\n\nI pulled live Founding Engineer (and founding-adjacent eng) postings at recently funded startups:\n\n1. Raindrop ($35M Series A): Founding Engineer (Backend)\nhttps://t.co/QTvGMmbkTk\n\n2. Prime Intellect ($130M Series A): Member of Technical Staff (Training Platform) ($150K-$300K + equity)\nhttps://t.co/MGvBCJhDCh\n\n3. EliseAI ($350M, stage undisclosed): Founding Software Engineer ($240K-$300K + equity + benefits)\nhttps://t.co/pTALJC2xwX\n\n4. Norm Ai ($120M Series C): Founding AI Engineer\nhttps://t.co/bvmIapoIzV\n\n5. Valon ($150M Series D): Founding Forward Deployed Engineer\nhttps://t.co/5Sdwt9rk6Z\n\n6. Higgsfield AI ($400M Series B): Founding Data Engineer\nhttps://t.co/kjH37RKQo6\n\n7. Numeral ($100M Series C): Founding Solutions Engineer\nhttps://t.co/sKdG8B9sIn\n\n8. Serval ($150M Series C): Founding IT Engineer ($150K-$250K + equity)\nhttps://t.co/ZXzWRLj9AR\n\nThese companies just took capital. They're still small enough that a founding eng hire moves the needle.\n\nHellyeah AI is hiring this shape of engineer too (closest open role: AI Engineer: Learn Engine ($200K-$1M + 0.5%-3% equity)).\nhttps://t.co/Dr0Fh8IaTE"
+   },
+   "public_metrics": {
+    "bookmark_count": 89,
+    "impression_count": 9544,
+    "like_count": 67,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 0
+   },
+   "text": "Being a Founding Engineer at the next OpenAI or Anthropic is one of most underrated ways to become a deca-millionaire.\n\nThe key is finding the right startups before they're massive.\n\nI pulled live Founding Engineer (and founding-adjacent eng) postings at recently funded startups: https://t.co/3oBo0p4fwQ"
+  },
+  {
+   "author_id": "1147774234866987014",
+   "created_at": "2026-11-17T21:23:19.000Z",
+   "edit_history_tweet_ids": [
+    "2122802791643230400"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 70,
+      "id": "2151686839",
+      "start": 63,
+      "username": "circle"
+     }
+    ]
+   },
+   "id": "2122802791643230400",
+   "public_metrics": {
+    "bookmark_count": 581,
+    "impression_count": 46404,
+    "like_count": 811,
+    "quote_count": 4,
+    "reply_count": 56,
+    "retweet_count": 34
+   },
+   "text": "We are hiring exceptional people for our Agentic Commerce team @circle\n\n- agent wallets\n- nanonpayments\n- x402/mpp\n- identity\n- reputation\n- discovery\n\nshafu.elfouly@circle.com"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_2122792811737026561"
+    ]
+   },
+   "author_id": "2076672795862237184",
+   "created_at": "2026-11-17T20:43:42.000Z",
+   "edit_history_tweet_ids": [
+    "2122792820964495543"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 126,
+      "id": "1007413134",
+      "start": 117,
+      "username": "DrJimFan"
+     },
+     {
+      "end": 133,
+      "id": "15751831",
+      "start": 127,
+      "username": "yukez"
+     },
+     {
+      "end": 147,
+      "id": "4527505582",
+      "start": 134,
+      "username": "scott_e_reed"
+     },
+     {
+      "end": 161,
+      "id": "936952875283914755",
+      "start": 148,
+      "username": "guanzhi_wang"
+     },
+     {
+      "end": 220,
+      "id": "4475055297",
+      "start": 209,
+      "username": "liu_mingyu"
+     },
+     {
+      "end": 235,
+      "id": "2578680199",
+      "start": 221,
+      "username": "RevLebaredian"
+     },
+     {
+      "end": 245,
+      "id": "317682167",
+      "start": 236,
+      "username": "jankautz"
+     },
+     {
+      "end": 258,
+      "id": "231759188",
+      "start": 246,
+      "username": "ankurhandos"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/8E1T3Y3ifx",
+      "end": 301,
+      "expanded_url": "https://x.com/0x_meden/status/2122792820964495543/photo/1",
+      "media_key": "3_2122792811737026561",
+      "start": 278,
+      "url": "https://t.co/8E1T3Y3ifx"
+     },
+     {
+      "display_url": "x.com/0x_meden/statu\u2026",
+      "end": 325,
+      "expanded_url": "https://twitter.com/0x_meden/status/2121256915174883673",
+      "start": 302,
+      "url": "https://t.co/ZYM0j8NHAd"
+     }
+    ]
+   },
+   "id": "2122792820964495543",
+   "note_tweet": {
+    "entities": {
+     "mentions": [
+      {
+       "end": 126,
+       "id": "1007413134",
+       "start": 117,
+       "username": "DrJimFan"
+      },
+      {
+       "end": 133,
+       "id": "15751831",
+       "start": 127,
+       "username": "yukez"
+      },
+      {
+       "end": 147,
+       "id": "4527505582",
+       "start": 134,
+       "username": "scott_e_reed"
+      },
+      {
+       "end": 161,
+       "id": "936952875283914755",
+       "start": 148,
+       "username": "guanzhi_wang"
+      },
+      {
+       "end": 216,
+       "id": "4475055297",
+       "start": 205,
+       "username": "liu_mingyu"
+      },
+      {
+       "end": 231,
+       "id": "2578680199",
+       "start": 217,
+       "username": "RevLebaredian"
+      },
+      {
+       "end": 241,
+       "id": "317682167",
+       "start": 232,
+       "username": "jankautz"
+      },
+      {
+       "end": 254,
+       "id": "231759188",
+       "start": 242,
+       "username": "ankurhandos"
+      },
+      {
+       "end": 283,
+       "id": "130745589",
+       "start": 274,
+       "username": "drfeifei"
+      },
+      {
+       "end": 294,
+       "id": "1665665700",
+       "start": 284,
+       "username": "danfei_xu"
+      },
+      {
+       "end": 308,
+       "id": "101810581",
+       "start": 295,
+       "username": "animesh_garg"
+      },
+      {
+       "end": 318,
+       "id": "2076672795862237184",
+       "start": 309,
+       "username": "0x_meden"
+      }
+     ]
+    },
+    "text": "If you want to become the next NVIDIA Director of Robotics, follow these people \n\n1. NVIDIA's robot brain lab (GEAR)\n@DrJimFan\n@yukez\n@scott_e_reed\n@guanzhi_wang\n\n2. Simulation, world models & robot hands\n@liu_mingyu\n@RevLebaredian\n@jankautz\n@ankurhandos\n\n3. The professors\n@drfeifei\n@danfei_xu\n@animesh_garg\n@0x_meden\n\nthe current one, Jim Fan, did his PhD under Fei-Fei Li and was OpenAI's first intern. the free 12-week path to start is in the article below"
+   },
+   "public_metrics": {
+    "bookmark_count": 144,
+    "impression_count": 7586,
+    "like_count": 97,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 10
+   },
+   "referenced_tweets": [
+    {
+     "id": "2121256915174883673",
+     "type": "quoted"
+    }
+   ],
+   "text": "If you want to become the next NVIDIA Director of Robotics, follow these people \n\n1. NVIDIA's robot brain lab (GEAR)\n@DrJimFan\n@yukez\n@scott_e_reed\n@guanzhi_wang\n\n2. Simulation, world models &amp; robot hands\n@liu_mingyu\n@RevLebaredian\n@jankautz\n@ankurhandos\n\n3. The professors https://t.co/8E1T3Y3ifx https://t.co/ZYM0j8NHAd"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "13_2122749072406921216"
+    ]
+   },
+   "author_id": "18104734",
+   "created_at": "2026-11-17T17:52:08.000Z",
+   "edit_history_tweet_ids": [
+    "2122749644832923763"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 76,
+      "id": "4783690002",
+      "start": 61,
+      "username": "GoogleDeepMind"
+     },
+     {
+      "end": 149,
+      "id": "1965856473084473347",
+      "start": 137,
+      "username": "antigravity"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/vVGh9frUMI",
+      "end": 298,
+      "expanded_url": "https://x.com/DynamicWebPaige/status/2122749644832923763/video/1",
+      "media_key": "13_2122749072406921216",
+      "start": 275,
+      "url": "https://t.co/vVGh9frUMI"
+     },
+     {
+      "display_url": "x.com/DynamicWebPaig\u2026",
+      "end": 322,
+      "expanded_url": "https://twitter.com/DynamicWebPaige/status/2122745839223484554",
+      "start": 299,
+      "url": "https://t.co/zRdUoY1yFO"
+     }
+    ]
+   },
+   "id": "2122749644832923763",
+   "note_tweet": {
+    "entities": {
+     "mentions": [
+      {
+       "end": 76,
+       "id": "4783690002",
+       "start": 61,
+       "username": "GoogleDeepMind"
+      },
+      {
+       "end": 149,
+       "id": "1965856473084473347",
+       "start": 137,
+       "username": "Antigravity"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "developers.googleblog.com/gemini-hydroge\u2026",
+       "end": 506,
+       "expanded_url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+       "start": 483,
+       "url": "https://t.co/R3tEggTEd0"
+      }
+     ]
+    },
+    "text": "First came vibe coding, now we have vibe robotics! \ud83e\uddbe\u2728\n\nToday @GoogleDeepMind is releasing Gemini 4 Hydrogen + the new Robotics plugin in @Antigravity, turning AGY into a one-stop robotics workbench:\n\n\ud83d\udd0c USB plug-in to a calibrated, moving robot arm in ~10 mins\n\ud83c\udf10 MuJoCo right in the workspace (adjust physics & scenes via chat!)\n\u26a1 Carbon-level 6-axis control at Hydrogen speed and cost\n\nGo from a robot in a box to real-to-sim-to-real in a single afternoon. Huge props to the team!\n\n\ud83d\udd17https://t.co/R3tEggTEd0"
+   },
+   "public_metrics": {
+    "bookmark_count": 409,
+    "impression_count": 32782,
+    "like_count": 471,
+    "quote_count": 8,
+    "reply_count": 20,
+    "retweet_count": 55
+   },
+   "referenced_tweets": [
+    {
+     "id": "2122745839223484554",
+     "type": "quoted"
+    }
+   ],
+   "text": "First came vibe coding, now we have vibe robotics! \ud83e\uddbe\u2728\n\nToday @GoogleDeepMind is releasing Gemini 4 Hydrogen + the new Robotics plugin in @Antigravity, turning AGY into a one-stop robotics workbench:\n\n\ud83d\udd0c USB plug-in to a calibrated, moving robot arm in ~10 mins\n\ud83c\udf10 MuJoCo right https://t.co/vVGh9frUMI https://t.co/zRdUoY1yFO"
+  }
+ ],
+ "includes": {
+  "media": [
+   {
+    "height": 1374,
+    "media_key": "13_2123042163986722816",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123042163986722816/img/AYgeSQ1tmztKP9Ni.jpg",
+    "type": "video",
+    "width": 1612
+   },
+   {
+    "height": 960,
+    "media_key": "3_2122903389042360320",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HXYRYnxXwAA0R-u.jpg",
+    "width": 640
+   },
+   {
+    "height": 1080,
+    "media_key": "13_2122743050619510785",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122743050619510785/img/ZPZi2CwCkVHK8h1G.jpg",
+    "type": "video",
+    "width": 1920
+   },
+   {
+    "height": 300,
+    "media_key": "3_2122736550668648448",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HXV5pWZXwAAIb2z.jpg",
+    "width": 593
+   },
+   {
+    "height": 1400,
+    "media_key": "3_2122792811737026561",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HXWs0LNWkAEp8uB.jpg",
+    "width": 1400
+   },
+   {
+    "height": 1680,
+    "media_key": "13_2122749072406921216",
+    "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122749072406921216/img/hEC16eLmbsAAFC2E.jpg",
+    "type": "video",
+    "width": 2902
+   }
+  ],
+  "tweets": [
+   {
+    "author_id": "1147774234866987014",
+    "created_at": "2026-11-17T21:23:19.000Z",
+    "edit_history_tweet_ids": [
+     "2122802791643230400"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 70,
+       "id": "2151686839",
+       "start": 63,
+       "username": "circle"
+      }
+     ]
+    },
+    "id": "2122802791643230400",
+    "public_metrics": {
+     "bookmark_count": 581,
+     "impression_count": 46404,
+     "like_count": 811,
+     "quote_count": 4,
+     "reply_count": 56,
+     "retweet_count": 34
+    },
+    "text": "We are hiring exceptional people for our Agentic Commerce team @circle\n\n- agent wallets\n- nanonpayments\n- x402/mpp\n- identity\n- reputation\n- discovery\n\nshafu.elfouly@circle.com"
+   },
+   {
+    "article": {
+     "cover_media": "3_2121256707510636544",
+     "entities": {
+      "urls": [
+       {
+        "text": "https://x.com/0x_meden"
+       },
+       {
+        "text": "https://github.com/google-deepmind/mujoco_menagerie"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-sim/latest/index.html"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-lab/latest/index.html"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai/sim-to-real-so-101/latest/index.html"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-ros/latest/index.html"
+       },
+       {
+        "text": "https://docs.ros.org/en/jazzy/Tutorials.html"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai"
+       },
+       {
+        "text": "https://aistudio.google.com/docs/robotics-overview"
+       },
+       {
+        "text": "https://academy.universal-robots.com"
+       },
+       {
+        "text": "https://dev.bostondynamics.com"
+       },
+       {
+        "text": "https://huggingface.co/learn/deep-rl-course/unit0/introduction"
+       },
+       {
+        "text": "https://huggingface.co/docs/lerobot/smolvla"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-lab/latest/index.html"
+       },
+       {
+        "text": "https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb"
+       },
+       {
+        "text": "https://github.com/TheRobotStudio/SO-ARM100"
+       },
+       {
+        "text": "https://github.com/unitreerobotics/unitree_rl_gym"
+       },
+       {
+        "text": "https://huggingface.co/docs/lerobot/so101"
+       },
+       {
+        "text": "https://huggingface.co/learn/robotics-course"
+       },
+       {
+        "text": "https://x.com/0x_meden"
+       },
+       {
+        "text": "https://github.com/Physical-Intelligence/openpi"
+       },
+       {
+        "text": "https://huggingface.co/docs/lerobot/il_robots"
+       },
+       {
+        "text": "https://github.com/NVIDIA/Isaac-GR00T"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai/sim-to-real-so-101/latest/index.html"
+       },
+       {
+        "text": "https://docs.nvidia.com/learning/physical-ai"
+       },
+       {
+        "text": "https://huggingface.co/spaces/lerobot/robot-learning-tutorial"
+       }
+      ]
+     },
+     "media_entities": [
+      "3_2121250313428496384",
+      "3_2121256479378350080",
+      "3_2121253247348310016",
+      "3_2121250129675997184",
+      "3_2121255499949555712",
+      "3_2121252770208423936",
+      "3_2121256581757116416",
+      "3_2121254658568065024",
+      "3_2121253781924884480"
+     ],
+     "plain_text": "A graduate engineering year at Stanford costs about $70,000 in tuition, at $23,239 a quarter.\nMeanwhile the companies that hire robotics engineers have quietly put their own training online for $0.\nNVIDIA has a full catalog of free, self-paced robotics courses, including one where you train a Unitree G1 humanoid and one where you train a $230 robot arm.\nHugging Face has a free robotics course, a free reinforcement learning course and a free robot learning tutorial.\nGoogle DeepMind gives away MuJoCo, its physics engine for robots, with free tutorials that run in your browser.\nPhysical Intelligence, the robot brain lab reportedly in talks at a $20 billion valuation, put its \u03c00 and \u03c00.5 models on GitHub.\nAlmost nobody uses any of this in the right order.\nSome people start with NVIDIA's humanoid course, hit a wall of words like \"teleoperation\" and \"VLA\" in the first ten minutes, and close the tab.\nOthers clone openpi, find out it needs a GPU with more than 8 GB just to run, and decide robotics is for big labs.\nOthers watch robot demos on X for months and never move a single joint, real or simulated.\nThe material is fine. The order is the problem.\nThis guide puts it in order, using only free material published by the companies themselves:\n12 weeks, about 5 hours a week\n14 to 23 hours of free NVIDIA courses, by NVIDIA's own estimates\n3 free Hugging Face courses and tutorials\na physics simulator from Google DeepMind that runs on a normal laptop\n1 optional $229.88 robot arm for the last month\nEvery link below was checked on November 13, 2026, and every course length comes from the course page itself.\nYou won't get a diploma or a grade from any of this. You get the skills, and those are what a robotics interview tests.\n \nImportant!!!\nI'm going to break down each course on this list one by one on X, with the exact parts worth your time, so you don't have to sit through all of it.\nIf you want the short version of every course, follow me: https://x.com/0x_meden\nNow let's start \u2b07\n \nBefore you start: what you need\nA laptop. Weeks 1 to 4 run on any normal computer. MuJoCo's tutorials run in Google Colab, in your browser.\nA GPU, later. NVIDIA's Isaac Sim and Isaac Lab need an NVIDIA GPU. If you don't have one, NVIDIA's own learning page links to Brev, cloud machines that come set up for Isaac Sim and Isaac Lab, so you don't install anything.\nPython. Hugging Face's robotics course asks for basic Python: variables, functions, loops. Linear algebra and calculus help but aren't required.\nA robot arm, optional. Weeks 9 to 12 use the SO-101, an open-source arm from The Robot Studio. A leader and follower pair costs $229.88 in parts, per the official bill of materials. Everything before that runs in simulation.\n \n \nWeeks 1\u20132: how robots learn, from Hugging Face\nYour goal: understand the big picture, from classical robotics to robots that learn from data, before you touch any code.\n1. Hugging Face Robotics Course (free)\nLink: \n \nHugging Face calls it \"this free course\" that goes \"from classical robotics to modern learning-based approaches.\" Each unit takes about 30 to 45 minutes, per the course page.\nThree units are out so far: the welcome unit, an introduction to robot learning and the LeRobot ecosystem, and classical robotics. Reinforcement learning, imitation learning and foundation models are listed as coming soon.\n \n2. Robot Learning: A Tutorial, by the LeRobot team (free)\nLink: \n \nThis is the long version the course is based on. Hugging Face describes it as \"a comprehensive guide to robot learning for researchers and practitioners.\" Read it alongside the course, one chapter per unit.\nWhat to focus on: why hand-written robot code breaks in messy homes and warehouses, and what changes when a robot learns from examples instead.\nMilestone: you can explain to a friend, in two minutes, the difference between a robot that is programmed and a robot that learns.\n \nWeeks 3\u20134: simulation, from Google DeepMind and NVIDIA\nYour goal: make a robot move in a simulator, so you can break things for free.\n1. MuJoCo introductory tutorial, Google DeepMind (free)\nLink: \n \nMuJoCo is Google DeepMind's physics engine. The introductory notebook \"teaches MuJoCo basics\" and runs in Colab, so there's nothing to install. The MuJoCo repo also has free notebooks on editing models, rollouts and an LQR controller that balances a humanoid on one leg.\n \n2. MuJoCo Menagerie, Google DeepMind (free)\nLink: https://github.com/google-deepmind/mujoco_menagerie\nReady-made models of real robots. Load the SO-ARM100 model, the same arm you can build in week 9, and move each joint by hand from Python.\n3. Getting Started With Isaac Sim, NVIDIA (free, 2\u20133 hours)\nLink: https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-sim/latest/index.html\nNVIDIA's beginner course. You build a robot from scratch, set its physics, add sensors and run your first simulation. NVIDIA's FAQ says it \"assumes no prior experience.\"\nMilestone: you can load a robot arm in MuJoCo, move it to a position you choose, and read back where its gripper ended up.\n \nWeeks 5\u20136: reinforcement learning, from Hugging Face, Unitree and NVIDIA\nYour goal: train a robot behavior by trial and error, without writing the behavior yourself.\n1. Hugging Face Deep RL Course (free)\nLink: \n \nHugging Face says it goes \"from beginner to expert\" and is \"completely free and open-source.\" For robots, do units 1 to 4, then unit 6, actor-critic methods with robotics environments, and unit 8, PPO, a standard algorithm for teaching simulated robots to walk.\n2. unitree_rl_gym, Unitree (free)\nLink: \n \nUnitree's own code for teaching its robots to walk with reinforcement learning. It supports the Go2 robot dog and the H1, H1_2 and G1 humanoids. The workflow in the README is the whole industry in four words: train, play, sim2sim, sim2real.\n \n3. Getting Started With Isaac Lab, NVIDIA (free, 4\u20137 hours)\nLink: https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-lab/latest/index.html\nYou train an SO-101 arm to place a vial in a rack. First a \"teacher\" policy that sees everything the simulator knows, then a \"student\" policy that only gets camera images, like a real robot.\nMilestone: you trained a policy yourself and watched it fail, then improve, in simulation.\n \nWeeks 7\u20138: robot brains, from Physical Intelligence and Hugging Face\nYour goal: run the same kind of model the $20 billion labs use, and fine-tune one on demonstrations.\n1. openpi, Physical Intelligence (free)\nLink: \n \nThe open release of \u03c00 and \u03c00.5, Physical Intelligence's robot brains. The base checkpoints were \"pre-trained on 10k+ hours of robot data,\" per the README.\nThe README also lists the hardware. Running the model needs a GPU with more than 8 GB, fine-tuning with LoRA needs more than 22.5 GB, and both examples are an RTX 4090. Full fine-tuning needs an A100 or H100.\n \n2. SmolVLA, Hugging Face (free)\nLink: \n \nIf you don't have a big GPU, start here. SmolVLA is Hugging Face's small robot brain, 450 million parameters, built to be fine-tuned with LeRobot. Hugging Face recommends about 50 recorded episodes of a task to start, and says 25 was not enough in their tests.\n3. Isaac GR00T, NVIDIA (free)\nLink: \n \nNVIDIA's open humanoid brain. You'll use it in week 11, so for now just read the README and see how close its design is to \u03c00.\nMilestone: you fine-tuned SmolVLA on a public dataset and can say in one sentence what a vision-language-action model does.\n \nWeeks 9\u201310: a real arm, from The Robot Studio and Hugging Face\nYour goal: build a $230 arm and teach it one task by showing it.\n1. SO-ARM100 / SO-101, The Robot Studio (free design)\nLink: \n \nThe open-source arm that LeRobot, NVIDIA's courses and this whole path are built around. The README has the full parts list, the 3D print files and links to buy kits in the US, EU, China and Japan. The leader and follower pair comes to $229.88 in parts.\n \n2. LeRobot SO-101 guide, Hugging Face (free)\nLink: \n \nStep-by-step assembly, motor setup and calibration. The follower arm uses six STS3215 motors, and the leader arm, the one you move by hand, uses differently geared motors so it holds its own weight.\n3. Imitation Learning on Real-World Robots, Hugging Face (free)\nLink: \n \nYou record demonstrations by moving the leader arm, train a policy on them, and let the robot do the task alone. Their example task is picking up a Lego block and dropping it in a bin.\nMilestone: your arm does one task on its own that you taught it by hand.\n \nWeeks 11\u201312: sim-to-real, from NVIDIA\nYour goal: train in simulation, run on the real arm, and close the gap between the two.\n1. Train an SO-101 Robot From Sim-to-Real With NVIDIA Isaac (free, 6\u201310 hours)\nLink: https://docs.nvidia.com/learning/physical-ai/sim-to-real-so-101/latest/index.html\nThis is the capstone. You train a GR00T model to pick up centrifuge vials and put them in a rack with an SO-101, first in simulation, then on your real arm.\nAlong the way NVIDIA teaches four ways to close the sim-to-real gap: domain randomization, co-training with real data, augmenting data with Cosmos, and measuring the motor gap with SAGE and GapONet.\n \n2. Getting Started With Isaac ROS, NVIDIA (free, 2\u20133 hours)\nLink: https://docs.nvidia.com/learning/physical-ai/getting-started-with-isaac-ros/latest/index.html\nHow to run AI policies on real hardware with ROS 2, the open robot operating system that a lot of real robots run on.\n3. ROS 2 tutorials, Open Robotics (free)\nLink: https://docs.ros.org/en/jazzy/Tutorials.html\nThe official ROS 2 tutorials. Do the beginner command-line set before the Isaac ROS course.\nMilestone: the same policy runs in simulation and on your real arm, and you can explain why it works worse on the real one.\n \nAfter week 12: where to go next\nHumanoids: NVIDIA's \"How to Develop and Deploy Humanoid Robots End-to-End With NVIDIA Isaac GR00T and Unitree G1,\" free, 4 to 12 hours. You teleoperate a G1, collect data, fine-tune GR00T and deploy it on a Jetson Thor. All NVIDIA courses are listed here: https://docs.nvidia.com/learning/physical-ai\nA planner on top: Google's Gemini Robotics ER 2, in preview in Google AI Studio. Google describes it as a reasoning model for \"agentic orchestration of robots (e.g. using VLAs)\", plus pointing and spatial reasoning. https://aistudio.google.com/docs/robotics-overview\nIndustrial robots: Universal Robots Academy has free e-learning for its arms, including the new PolyScope X software. https://academy.universal-robots.com\nSpot: Boston Dynamics publishes the full Spot SDK documentation for free, from basic robot services to autonomous navigation. https://dev.bostondynamics.com\n \nThe whole path on one page\nWeeks 1\u20132: Hugging Face Robotics Course + Robot Learning tutorial\nWeeks 3\u20134: MuJoCo tutorial + MuJoCo Menagerie + Getting Started With Isaac Sim\nWeeks 5\u20136: Deep RL Course + unitree_rl_gym + Getting Started With Isaac Lab\nWeeks 7\u20138: openpi + SmolVLA + Isaac GR00T\nWeeks 9\u201310: SO-101 build + LeRobot imitation learning\nWeeks 11\u201312: NVIDIA sim-to-real SO-101 course + Isaac ROS + ROS 2\nTotal cost: $0, or $229.88 if you build the arm.\nThis used to take a $70,000 degree or a job inside a lab. Now the companies building the robots hand out their own tools for free.\nMost people will bookmark this and never open week 1. The ones who open it this weekend will be twelve weeks ahead of them by February.\n \n",
+     "preview_text": "A graduate engineering year at Stanford costs about $70,000 in tuition, at $23,239 a quarter.\nMeanwhile the companies that hire robotics engineers have quietly put their own training online for $0.",
+     "title": "The robotics degree NVIDIA, Google and Hugging Face give away for free: a 12-week path (RESOURCES)"
+    },
+    "author_id": "2076672795862237184",
+    "created_at": "2026-11-13T15:00:34.000Z",
+    "edit_history_tweet_ids": [
+     "2121256915174883673"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/i/article/2121\u2026",
+       "end": 245,
+       "expanded_url": "https://x.com/i/article/2121249570696884224",
+       "start": 222,
+       "status": 404,
+       "unwound_url": "https://x.com/i/article/2121249570696884224",
+       "url": "https://t.co/isqhkbW9e6"
+      }
+     ]
+    },
+    "id": "2121256915174883673",
+    "public_metrics": {
+     "bookmark_count": 606,
+     "impression_count": 122233,
+     "like_count": 267,
+     "quote_count": 5,
+     "reply_count": 4,
+     "retweet_count": 52
+    },
+    "text": "Stanford charges about $70,000 a year to teach robotics.\n\nNVIDIA, Google DeepMind and Hugging Face teach it for $0.\n\ni put their free courses in order: 12 weeks, laptop first, $230 robot arm last.\n\nsave it for the weekend https://t.co/isqhkbW9e6"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2122745501095464960"
+     ]
+    },
+    "author_id": "18104734",
+    "created_at": "2026-11-17T17:37:01.000Z",
+    "edit_history_tweet_ids": [
+     "2122745839223484554"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 44,
+       "id": "1965856473084473347",
+       "start": 32,
+       "username": "antigravity"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "pic.x.com/qPJMLui4RV",
+       "end": 71,
+       "expanded_url": "https://x.com/DynamicWebPaige/status/2122745839223484554/video/1",
+       "media_key": "13_2122745501095464960",
+       "start": 48,
+       "url": "https://t.co/qPJMLui4RV"
+      }
+     ]
+    },
+    "id": "2122745839223484554",
+    "public_metrics": {
+     "bookmark_count": 45,
+     "impression_count": 23418,
+     "like_count": 128,
+     "quote_count": 2,
+     "reply_count": 9,
+     "retweet_count": 3
+    },
+    "text": "\ud83d\udc40\ud83e\udd16 New plug-ins on the scene in @antigravity... https://t.co/qPJMLui4RV"
+   }
+  ],
+  "users": [
+   {
+    "id": "1880018402775035907",
+    "name": "Panchu",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1971813342538092549/2xW92sgO_normal.jpg",
+    "username": "Panchu2605"
+   },
+   {
+    "id": "635813",
+    "name": "Anton Herasymenko",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2122468394897154048/Bv1-onYq_normal.jpg",
+    "username": "antoherasymenko"
+   },
+   {
+    "id": "1016136948845502465",
+    "name": "Simon Mo",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2014276300895293440/eTSX8W-V_normal.jpg",
+    "username": "simon_mo_"
+   },
+   {
+    "id": "2037806897626005504",
+    "name": "Julia Collins",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2117231679458951168/oW_4P0yx_normal.jpg",
+    "username": "julia_coder_"
+   },
+   {
+    "id": "47126544",
+    "name": "BURKOV",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1906075596808998913/6xpSGRnv_normal.jpg",
+    "username": "burkov"
+   },
+   {
+    "id": "64844802",
+    "name": "a16z",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1919488160125616128/QAZXTMEj_normal.png",
+    "username": "a16z"
+   },
+   {
+    "id": "587542116",
+    "name": "Jay Ma",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1934857998876426240/JKiuf4tA_normal.jpg",
+    "username": "Doudoujay"
+   },
+   {
+    "id": "1147774234866987014",
+    "name": "shafu",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/1574692064352165890/zGqebAKh_normal.jpg",
+    "username": "shafu0x"
+   },
+   {
+    "id": "2076672795862237184",
+    "name": "Martin",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2076673492288733184/gQq1fNeE_normal.jpg",
+    "username": "0x_meden"
+   },
+   {
+    "id": "18104734",
+    "name": "\ud83d\udc69\u200d\ud83d\udcbb Paige Bailey",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/626762747330457600/X3Bx503W_normal.jpg",
+    "username": "DynamicWebPaige"
+   }
+  ]
+ },
+ "meta": {
+  "next_token": "7140dibdnow9c7btw4b38koxexaeuwwv9wua95sl6z3g3",
+  "result_count": 10
+ }
+}
