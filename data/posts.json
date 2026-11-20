@@ -1,5 +1,56 @@
 [
   {
+    "id": "2123534127597224372",
+    "bookmarkedAt": "2026-11-20T02:04:37.402Z",
+    "authorUsername": "hjcharlesworth",
+    "text": "Amp is looking to hire Sydney based FDEs to work with our most important customers.\n\nDm me if interested!",
+    "title": "Amp is looking to hire Sydney based FDEs to work with our most important custome…",
+    "url": null,
+    "domain": null,
+    "likes": 68,
+    "reposts": 4,
+    "quote": null,
+    "images": []
+  },
+  {
+    "id": "2123442722379792845",
+    "bookmarkedAt": "2026-11-20T02:04:36.402Z",
+    "authorUsername": "dani_avila7",
+    "text": "Anthropic just opened its Claude Forward Deployed Engineer learning path!\n\nI've already completed most of it, and it gives you a clear picture of how to deploy AI in enterprise environments, from initial pilots to production, with the necessary security and compliance safeguards in place\n\nHere's the link 👇",
+    "title": "Anthropic just opened its Claude Forward Deployed Engineer learning path! I've a…",
+    "url": null,
+    "domain": null,
+    "likes": 1842,
+    "reposts": 144,
+    "quote": null,
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HXf7vfnWYAAy0Mz.jpg",
+        "width": 906,
+        "height": 749
+      }
+    ]
+  },
+  {
+    "id": "2123496715617763392",
+    "bookmarkedAt": "2026-11-20T02:04:35.402Z",
+    "authorUsername": "nazzari",
+    "text": "Applications for the a16z FDE Fellowship open today!\n\ncohort 002 founding fellows:\nPauline Brunet from @spacexai\nGary Lin from @OpenAI\nLouis Walsh from @ExaAILabs\nNatalie Kalas from @perplexity_ai\nAlexander Lewis from @DecagonAI\nArjun Mishra from @cognition\nKevin Bai from @AnthropicAI\nVatsal Mehta from @Replit\nJavier Kielmanowicz from @harvey\nBoaz Francis, from @wonderful_ai\nand more!\n\nwho? FDEs and Applied AI leaders\nwhen? eight weeks, starting mid-jan\nwhats the format? dinners and events every other week\nwhere? events will be in SF and NYC but fellows can be based anywhere\n\n! apply before December 31st: https://lnkd.in/gKtr5Z56",
+    "title": "LinkedIn",
+    "url": "https://lnkd.in/gKtr5Z56",
+    "domain": "lnkd.in",
+    "likes": 161,
+    "reposts": 7,
+    "quote": null,
+    "images": [
+      {
+        "url": "https://pbs.twimg.com/media/HXgpTTcbUAASoXa.png",
+        "width": 848,
+        "height": 848
+      }
+    ]
+  },
+  {
     "id": "2103551714536439951",
     "bookmarkedAt": "2026-11-19T13:21:01.691Z",
     "authorUsername": "alexandr_wang",
@@ -7,8 +58,8 @@
     "title": "Why We're Building Muse",
     "url": "https://x.com/i/article/1884367148363177984",
     "domain": null,
-    "likes": 14069,
-    "reposts": 1203,
+    "likes": 14079,
+    "reposts": 1207,
     "quote": null,
     "images": []
   },
@@ -20,8 +71,8 @@
     "title": "Hiring news for my builder friends 👇 @circle is looking for exceptional people…",
     "url": null,
     "domain": null,
-    "likes": 79,
-    "reposts": 2,
+    "likes": 95,
+    "reposts": 3,
     "quote": {
       "id": "2122802791643230400",
       "authorUsername": "shafu0x",
@@ -38,8 +89,8 @@
     "title": "Studios over Factories",
     "url": "https://x.com/i/article/2122281085643919360",
     "domain": null,
-    "likes": 337,
-    "reposts": 28,
+    "likes": 347,
+    "reposts": 30,
     "quote": null,
     "images": []
   },
@@ -51,8 +102,8 @@
     "title": "Building an Autonomous Inference System",
     "url": "https://x.com/i/article/2123131336982712320",
     "domain": null,
-    "likes": 770,
-    "reposts": 92,
+    "likes": 814,
+    "reposts": 94,
     "quote": null,
     "images": []
   },
@@ -64,8 +115,8 @@
     "title": "MotionSites Studio — Pick a Beautiful Design, and Let AI Make It Yours",
     "url": "http://studio.motionsites.ai",
     "domain": "studio.motionsites.ai",
-    "likes": 351,
-    "reposts": 110,
+    "likes": 353,
+    "reposts": 111,
     "quote": null,
     "images": [
       {
@@ -83,8 +134,8 @@
     "title": "ChapterPal — AI-assisted reading and note-taking",
     "url": "https://www.chapterpal.com/book/3fef12a8-4dcd-412e-bd1f-5105591d515c/llm-inference-handbook",
     "domain": "chapterpal.com",
-    "likes": 404,
-    "reposts": 65,
+    "likes": 427,
+    "reposts": 71,
     "quote": null,
     "images": [
       {
@@ -102,8 +153,8 @@
     "title": "For decades, the idea of AI improving itself was just a thought experiment. Toda…",
     "url": "http://youtu.be/h_aA1-R70E8",
     "domain": "youtu.be",
-    "likes": 1136,
-    "reposts": 165,
+    "likes": 1173,
+    "reposts": 172,
     "quote": null,
     "images": [
       {
@@ -121,7 +172,7 @@
     "title": "Founding Research Engineer @ Raindrop",
     "url": "https://jobs.ashbyhq.com/raindrop/3d2512f7-bfbf-47c6-8765-cad90cd52e1d",
     "domain": "jobs.ashbyhq.com",
-    "likes": 67,
+    "likes": 66,
     "reposts": 0,
     "quote": null,
     "images": [
@@ -140,7 +191,7 @@
     "title": "We are hiring exceptional people for our Agentic Commerce team @circle - agent w…",
     "url": null,
     "domain": null,
-    "likes": 817,
+    "likes": 819,
     "reposts": 36,
     "quote": null,
     "images": []
@@ -177,7 +228,7 @@
     "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics - Google Developers Blog",
     "url": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
     "domain": "developers.googleblog.com",
-    "likes": 471,
+    "likes": 473,
     "reposts": 55,
     "quote": {
       "id": "2122745839223484554",
@@ -220,8 +271,8 @@
     "title": "How the Claude Code team thinks about verification",
     "url": "https://x.com/i/article/2122515769007435776",
     "domain": null,
-    "likes": 3665,
-    "reposts": 366,
+    "likes": 3669,
+    "reposts": 367,
     "quote": null,
     "images": []
   },
@@ -233,8 +284,8 @@
     "title": "System Design — an interactive course",
     "url": "https://designed-to-scale.vercel.app",
     "domain": "designed-to-scale.vercel.app",
-    "likes": 7152,
-    "reposts": 799,
+    "likes": 7210,
+    "reposts": 806,
     "quote": null,
     "images": [
       {
@@ -253,7 +304,7 @@
     "url": "https://docs.google.com/spreadsheets/d/1XIQlzncaI9QdOIhjJ6BQOzqHLbRWzdll/edit",
     "domain": "docs.google.com",
     "likes": 874,
-    "reposts": 145,
+    "reposts": 146,
     "quote": null,
     "images": []
   },
@@ -265,7 +316,7 @@
     "title": "2026/2027 Global Remote & Visa Sponsorship Directory.pdf - Google Drive",
     "url": "https://drive.google.com/file/d/1-afoPiP61vS29-nFjVFcAyeqvqNLJdaw/view",
     "domain": "drive.google.com",
-    "likes": 8365,
+    "likes": 8363,
     "reposts": 1080,
     "quote": null,
     "images": []
@@ -310,7 +361,7 @@
     "title": "Job Application for Applied Scientist, Engineering at Anthropic",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468939008",
     "domain": "job-boards.greenhouse.io",
-    "likes": 1198,
+    "likes": 1199,
     "reposts": 79,
     "quote": null,
     "images": []
@@ -323,7 +374,7 @@
     "title": "call me crazy but its pretty clear now. rea + mitmproxy is going to expose more…",
     "url": null,
     "domain": null,
-    "likes": 4360,
+    "likes": 4362,
     "reposts": 462,
     "quote": {
       "id": "2116917748076834852",
@@ -373,8 +424,8 @@
     "title": "Akansha Roy — backend · systems · ai",
     "url": "http://akansharoy.site",
     "domain": "akansharoy.site",
-    "likes": 371,
-    "reposts": 49,
+    "likes": 373,
+    "reposts": 50,
     "quote": null,
     "images": []
   },
@@ -412,7 +463,7 @@
     "title": "AI interfaces nowadays are still pretty much turn-based. In my PhD thesis, I tho…",
     "url": null,
     "domain": null,
-    "likes": 8577,
+    "likes": 8578,
     "reposts": 619,
     "quote": null,
     "images": [
@@ -486,7 +537,7 @@
     "title": "Stanford CS329Z | Engineering AI Agents",
     "url": "https://cs329z.stanford.edu/",
     "domain": "cs329z.stanford.edu",
-    "likes": 1306,
+    "likes": 1304,
     "reposts": 204,
     "quote": null,
     "images": [
@@ -505,7 +556,7 @@
     "title": "If you're interested in hardware, prototyping, and industrial/interaction design…",
     "url": null,
     "domain": null,
-    "likes": 1353,
+    "likes": 1352,
     "reposts": 42,
     "quote": null,
     "images": [
@@ -573,7 +624,7 @@
     "title": "GitHub - ByteAsk/cli: AI coding agent for your terminal, with C/C++ build, debug, sanitizer and profiling tools. A fork of OpenAI Codex CLI. · GitHub",
     "url": "https://github.com/ByteAsk/cli",
     "domain": "github.com",
-    "likes": 669,
+    "likes": 668,
     "reposts": 58,
     "quote": null,
     "images": [
@@ -616,7 +667,7 @@
     "title": "GitHub - bryanyzhu/agentic-ai-system-course: Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents · GitHub",
     "url": "https://github.com/bryanyzhu/agentic-ai-system-course",
     "domain": "github.com",
-    "likes": 339,
+    "likes": 338,
     "reposts": 70,
     "quote": null,
     "images": []
@@ -629,8 +680,8 @@
     "title": "my AIE talk is up! come hear how the grok @bot team ships so quickly without com…",
     "url": "https://youtu.be/O_zcc6Xl12g",
     "domain": "youtu.be",
-    "likes": 9973,
-    "reposts": 922,
+    "likes": 10043,
+    "reposts": 930,
     "quote": null,
     "images": []
   },
@@ -642,7 +693,7 @@
     "title": "由 OpenAI 董事会主席兼前 Salesforce 联席 CEO Bret Taylor，联手前 Google Labs 掌门人 Clay Bavor 创立…",
     "url": null,
     "domain": null,
-    "likes": 1272,
+    "likes": 1270,
     "reposts": 95,
     "quote": {
       "id": "2121296788766519431",
@@ -660,8 +711,8 @@
     "title": "the most useful psychology book ever written:",
     "url": null,
     "domain": null,
-    "likes": 30780,
-    "reposts": 3413,
+    "likes": 30765,
+    "reposts": 3412,
     "quote": null,
     "images": [
       {
@@ -694,8 +745,8 @@
     "title": "My advice is to stop optimizing yourself around becoming a better software engin…",
     "url": null,
     "domain": null,
-    "likes": 1179,
-    "reposts": 75,
+    "likes": 1178,
+    "reposts": 74,
     "quote": {
       "id": "2120897438001283512",
       "authorUsername": "unknown",
@@ -712,7 +763,7 @@
     "title": "Must Read: 20 Books That Will Put You Ahead of Everyone Else in 2027",
     "url": null,
     "domain": null,
-    "likes": 4376,
+    "likes": 4371,
     "reposts": 506,
     "quote": null,
     "images": [
@@ -839,8 +890,8 @@
     "title": "DeepSeek just avenged Old Huang after Anthropic’s decapitation strike by releasi…",
     "url": null,
     "domain": null,
-    "likes": 10123,
-    "reposts": 2346,
+    "likes": 10121,
+    "reposts": 2344,
     "quote": {
       "id": "2121252121203167578",
       "authorUsername": "MaxForAI",
@@ -863,8 +914,8 @@
     "title": "🚨DeepSeek居然把他们整个App也开源了。。。。 刚刚 @deepseek_ai 正式发布全家桶应用API，直接把DeepSeek App里几乎所有的功…",
     "url": null,
     "domain": null,
-    "likes": 6268,
-    "reposts": 1030,
+    "likes": 6266,
+    "reposts": 1029,
     "quote": null,
     "images": [
       {
@@ -918,7 +969,7 @@
     "title": "GitHub - bojieli/ai-infra-book: 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验 · GitHub",
     "url": "https://github.com/bojieli/ai-infra-book",
     "domain": "github.com",
-    "likes": 750,
+    "likes": 747,
     "reposts": 145,
     "quote": null,
     "images": []
@@ -1023,7 +1074,7 @@
     "title": "",
     "url": null,
     "domain": null,
-    "likes": 7363,
+    "likes": 7359,
     "reposts": 583,
     "quote": {
       "id": "2119862449302323535",
@@ -1160,7 +1211,7 @@
     "title": "Computer Science from the Bottom Up",
     "url": "https://www.bottomupcs.com/",
     "domain": "bottomupcs.com",
-    "likes": 652,
+    "likes": 651,
     "reposts": 65,
     "quote": {
       "id": "2120844254608236722",
@@ -1250,7 +1301,7 @@
     "title": "Dive Into Systems",
     "url": "https://diveintosystems.org/book/C11-MemHierarchy/index.html",
     "domain": "diveintosystems.org",
-    "likes": 1253,
+    "likes": 1252,
     "reposts": 123,
     "quote": null,
     "images": [
@@ -1287,7 +1338,7 @@
     "title": "GitHub - achimala/dream-loop: Agent skill for impressive 3D visuals using Blender + image gen + subagent critic · GitHub",
     "url": "https://github.com/achimala/dream-loop",
     "domain": "github.com",
-    "likes": 1780,
+    "likes": 1782,
     "reposts": 110,
     "quote": null,
     "images": [
@@ -1325,7 +1376,7 @@
     "title": "Highly recommended read. My notes: I have recently started independent research…",
     "url": null,
     "domain": null,
-    "likes": 202,
+    "likes": 201,
     "reposts": 18,
     "quote": {
       "id": "2121258848623464856",
@@ -1343,7 +1394,7 @@
     "title": "Code in Place",
     "url": "https://codeinplace.stanford.edu/",
     "domain": "codeinplace.stanford.edu",
-    "likes": 2072,
+    "likes": 2071,
     "reposts": 381,
     "quote": null,
     "images": []
@@ -1356,8 +1407,8 @@
     "title": "i learnt this lesson this year. it's helped me follow through on my ideas and no…",
     "url": null,
     "domain": null,
-    "likes": 9825,
-    "reposts": 747,
+    "likes": 9837,
+    "reposts": 746,
     "quote": {
       "id": "2121327276805525905",
       "authorUsername": "unknown",
@@ -1405,7 +1456,7 @@
     "title": "Nvidia is nothing without its people. It now appears the national security alleg…",
     "url": null,
     "domain": null,
-    "likes": 7657,
+    "likes": 7656,
     "reposts": 1035,
     "quote": {
       "id": "2121070881258504395",
@@ -1447,7 +1498,7 @@
     "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth — Google DeepMind",
     "url": "https://deepmind.google/blog/formal-verification-signal-protocol",
     "domain": "deepmind.google",
-    "likes": 5839,
+    "likes": 5838,
     "reposts": 699,
     "quote": null,
     "images": [
@@ -1466,8 +1517,8 @@
     "title": "Jensen",
     "url": null,
     "domain": null,
-    "likes": 152801,
-    "reposts": 13553,
+    "likes": 152783,
+    "reposts": 13548,
     "quote": {
       "id": "2121018724262293539",
       "authorUsername": "a16z",
@@ -1502,7 +1553,7 @@
     "title": "The Playlist page for CS329Z: Engineering AI Agents is now up! Bookmark it! 𝍣 W…",
     "url": "https://www.youtube.com/playlist?list=PLPRcF5HR02_U",
     "domain": "youtube.com",
-    "likes": 633,
+    "likes": 634,
     "reposts": 84,
     "quote": {
       "id": "2120216178371260589",
@@ -1532,7 +1583,7 @@
     "title": "Human art is the new luxury",
     "url": null,
     "domain": null,
-    "likes": 25693,
+    "likes": 25688,
     "reposts": 2454,
     "quote": null,
     "images": [
@@ -1616,7 +1667,7 @@
     "title": "Today, we're introducing OpenOrange. Run Cloudflare Workers, Durable Objects, Wo…",
     "url": null,
     "domain": null,
-    "likes": 1214,
+    "likes": 1211,
     "reposts": 62,
     "quote": null,
     "images": [
@@ -1654,8 +1705,8 @@
     "title": "For my first post, I’m sharing a letter @NVIDIA signed on why open models matter…",
     "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
     "domain": "images.nvidia.com",
-    "likes": 193868,
-    "reposts": 34464,
+    "likes": 193839,
+    "reposts": 34455,
     "quote": null,
     "images": [
       {
@@ -1683,8 +1734,8 @@
     "title": "Not endorsing the conclusions here, but this is worth a read. The financial and…",
     "url": null,
     "domain": null,
-    "likes": 3665,
-    "reposts": 412,
+    "likes": 3663,
+    "reposts": 411,
     "quote": {
       "id": "2120746927100715509",
       "authorUsername": "unknown",
@@ -1941,7 +1992,7 @@
     "title": "10 life-changing ideas with no explanation: 1. read a lot. 2. write every day. 3…",
     "url": null,
     "domain": null,
-    "likes": 2033,
+    "likes": 2031,
     "reposts": 232,
     "quote": null,
     "images": []
@@ -1954,7 +2005,7 @@
     "title": "496 startups hiring · 1,809 roles · Nov 1–11, 2026 - Google Sheets",
     "url": "https://docs.google.com/spreadsheets/d/1NgzltqW7x3N_SQQqOT4Cn4_ALC14D3tIZanb17csaO0",
     "domain": "docs.google.com",
-    "likes": 299,
+    "likes": 298,
     "reposts": 23,
     "quote": null,
     "images": []
@@ -1967,7 +2018,7 @@
     "title": "CS2680 Modern AI Systems: Agents and System Optimizations",
     "url": "https://cs2680.seas.harvard.edu/",
     "domain": "cs2680.seas.harvard.edu",
-    "likes": 1283,
+    "likes": 1285,
     "reposts": 149,
     "quote": null,
     "images": []
@@ -1993,7 +2044,7 @@
     "title": "the investment in San Francisco parks by @bchesky is pure excellence. thank you…",
     "url": null,
     "domain": null,
-    "likes": 3926,
+    "likes": 3924,
     "reposts": 85,
     "quote": null,
     "images": []
@@ -2030,7 +2081,7 @@
     "title": "Patrick Collison has some genuinely great advice on life, work, and ambition, es…",
     "url": null,
     "domain": null,
-    "likes": 1103,
+    "likes": 1102,
     "reposts": 74,
     "quote": null,
     "images": [
@@ -2086,7 +2137,7 @@
     "title": "AI Agent Memory: Complete Guide & Architecture",
     "url": "https://mem0.ai/library/agent-memory/memory-in-agents-what-why-and-how#is-a-context-window-the-same-as-memory",
     "domain": "mem0.ai",
-    "likes": 405,
+    "likes": 404,
     "reposts": 23,
     "quote": null,
     "images": [
@@ -2129,7 +2180,7 @@
     "title": "If I had to land a $200K AI engineer job in 90 days, I would not get a degree. I…",
     "url": "http://github.com/Shubhamsaboo/a",
     "domain": "github.com",
-    "likes": 505,
+    "likes": 506,
     "reposts": 87,
     "quote": null,
     "images": [
@@ -2218,7 +2269,7 @@
     "title": "GitHub - ashishps1/awesome-system-design-resources: Learn System Design concepts and prepare for interviews using free resources. · GitHub",
     "url": "https://github.com/ashishps1/awesome-system-design-resources",
     "domain": "github.com",
-    "likes": 767,
+    "likes": 769,
     "reposts": 118,
     "quote": null,
     "images": [
@@ -2295,7 +2346,7 @@
     "title": "Fresh data confirms what I shared back in April: native mobile and frontend role…",
     "url": null,
     "domain": null,
-    "likes": 1787,
+    "likes": 1786,
     "reposts": 115,
     "quote": {
       "id": "2120274852766703938",
@@ -2319,7 +2370,7 @@
     "title": "Heptabase for Claude Code, ChatGPT, Codex & Grok Bot",
     "url": "http://heptabase.com/plugin",
     "domain": "heptabase.com",
-    "likes": 1197,
+    "likes": 1196,
     "reposts": 131,
     "quote": null,
     "images": [
@@ -2351,7 +2402,7 @@
     "title": "Stanford CS329Z | Engineering AI Agents",
     "url": "https://cs329z.stanford.edu/",
     "domain": "cs329z.stanford.edu",
-    "likes": 16,
+    "likes": 15,
     "reposts": 0,
     "quote": null,
     "images": []
@@ -2402,7 +2453,7 @@
     "title": "🔊 Big Update! All materials are now being released publicly for our NEW Stanfor…",
     "url": "https://youtu.be/DGI4vucR71w",
     "domain": "youtu.be",
-    "likes": 1321,
+    "likes": 1322,
     "reposts": 188,
     "quote": {
       "id": "2095224415567167978",
@@ -2427,7 +2478,7 @@
     "url": "https://docs.google.com/document/d/1v-EFePfOJzEVy16rZKRYiE6aZzD3nzocsqMHiqBAfEc/edit?tab=t.0#heading=h.ollrmt4k2gxi",
     "domain": "docs.google.com",
     "likes": 1571,
-    "reposts": 95,
+    "reposts": 94,
     "quote": null,
     "images": [
       {
@@ -2482,7 +2533,7 @@
     "title": "Peter Thiel on how to build a creative monopoly",
     "url": null,
     "domain": null,
-    "likes": 980,
+    "likes": 978,
     "reposts": 106,
     "quote": null,
     "images": [
@@ -2647,7 +2698,7 @@
     "title": "we are entering a renaissance in programming language and runtime research, and…",
     "url": null,
     "domain": null,
-    "likes": 10232,
+    "likes": 10231,
     "reposts": 671,
     "quote": null,
     "images": []
@@ -2684,8 +2735,8 @@
     "title": "Job search tools for ChatGPT & Claude",
     "url": "https://alexandria.firecrawl.dev/go/jobtools",
     "domain": "alexandria.firecrawl.dev",
-    "likes": 9308,
-    "reposts": 798,
+    "likes": 9304,
+    "reposts": 797,
     "quote": null,
     "images": [
       {
@@ -2879,8 +2930,8 @@
     "title": "Two things I’ve been thinking about regarding AI: • People often highlight the r…",
     "url": null,
     "domain": null,
-    "likes": 5499,
-    "reposts": 469,
+    "likes": 5495,
+    "reposts": 470,
     "quote": null,
     "images": []
   },
@@ -2962,7 +3013,7 @@
     "url": null,
     "domain": null,
     "likes": 1507,
-    "reposts": 150,
+    "reposts": 149,
     "quote": null,
     "images": [
       {
@@ -2980,7 +3031,7 @@
     "title": "I’ll be at CoRL next week. We’re building a world-class robotics team at Apple a…",
     "url": "https://jobs.apple.com/en-us/details/200663675-3760/special-projects-research-scientist-engineer-robotics?team=MLAI",
     "domain": "jobs.apple.com",
-    "likes": 325,
+    "likes": 324,
     "reposts": 17,
     "quote": null,
     "images": []
@@ -2993,7 +3044,7 @@
     "title": "Inference Engineering",
     "url": "https://www.deep-ml.com/collections/Inference%20Engineering",
     "domain": "deep-ml.com",
-    "likes": 10,
+    "likes": 9,
     "reposts": 0,
     "quote": null,
     "images": []
@@ -3024,7 +3075,7 @@
     "title": "GitHub - janestreet/agent_skills: Agent skills · GitHub",
     "url": "http://github.com/janestreet/agent_skills",
     "domain": "github.com",
-    "likes": 7515,
+    "likes": 7510,
     "reposts": 404,
     "quote": null,
     "images": []
@@ -3037,7 +3088,7 @@
     "title": "Immersive Math",
     "url": "https://immersivemath.com/ila",
     "domain": "immersivemath.com",
-    "likes": 1126,
+    "likes": 1125,
     "reposts": 205,
     "quote": {
       "id": "2118366063196774479",
@@ -3136,7 +3187,7 @@
     "title": "Do this: 1. Create an AWS account. Set up billing alerts first, unless you want…",
     "url": null,
     "domain": null,
-    "likes": 754,
+    "likes": 753,
     "reposts": 71,
     "quote": {
       "id": "2119188765830676652",
@@ -3178,7 +3229,7 @@
     "title": "Your coding agents made you a manager",
     "url": "https://x.com/i/article/2118901185377964033",
     "domain": null,
-    "likes": 4140,
+    "likes": 4139,
     "reposts": 485,
     "quote": null,
     "images": []
@@ -3209,7 +3260,7 @@
     "title": "Chat SDK agents can now stream generative UI with json-render - Vercel",
     "url": "https://vercel.com/changelog/json-render-and-chat-sdk-agents",
     "domain": "vercel.com",
-    "likes": 2777,
+    "likes": 2778,
     "reposts": 144,
     "quote": null,
     "images": [
@@ -3241,7 +3292,7 @@
     "title": "Paradev (formerly Superset) - Run an army of coding agents",
     "url": "https://paradev.com",
     "domain": "paradev.com",
-    "likes": 384,
+    "likes": 383,
     "reposts": 10,
     "quote": null,
     "images": []
@@ -3267,7 +3318,7 @@
     "title": "We just released a free course on Claude Academy: Introduction to Evals. If you…",
     "url": null,
     "domain": null,
-    "likes": 768,
+    "likes": 769,
     "reposts": 43,
     "quote": null,
     "images": [
@@ -3286,7 +3337,7 @@
     "title": "Order Asimov 1 | Menlo Research",
     "url": "https://menlo.ai/order",
     "domain": "menlo.ai",
-    "likes": 3136,
+    "likes": 3137,
     "reposts": 321,
     "quote": null,
     "images": [
@@ -3458,7 +3509,7 @@
     "title": "hot take: you don't need a software factory, and i don't love the term. it's jus…",
     "url": null,
     "domain": null,
-    "likes": 8143,
+    "likes": 8147,
     "reposts": 587,
     "quote": {
       "id": "2118604739428426223",
@@ -3514,7 +3565,7 @@
     "title": "Job Application for Software Engineer, Sandboxing at Anthropic",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
     "domain": "job-boards.greenhouse.io",
-    "likes": 591,
+    "likes": 590,
     "reposts": 35,
     "quote": null,
     "images": []
@@ -3545,7 +3596,7 @@
     "title": "I swear this is not a retweet: my course at Yale this semester will ALSO cover R…",
     "url": null,
     "domain": null,
-    "likes": 239,
+    "likes": 238,
     "reposts": 33,
     "quote": {
       "id": "2117918291670753479",
@@ -3569,7 +3620,7 @@
     "title": "Full writeup on Exo. It's an exploration on how much a model can optimize a task…",
     "url": null,
     "domain": null,
-    "likes": 340,
+    "likes": 341,
     "reposts": 15,
     "quote": null,
     "images": [
@@ -3677,7 +3728,7 @@
     "title": "The most lucrative AI business to start in 2027",
     "url": "https://x.com/i/article/2117661803769659392",
     "domain": null,
-    "likes": 12839,
+    "likes": 12843,
     "reposts": 1709,
     "quote": null,
     "images": []
